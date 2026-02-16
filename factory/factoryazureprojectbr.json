@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureprojectbr",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5bdd52b6-4775-45fc-bf2e-592081eb0002",
+		"tenantId": "4b3abf68-1478-432a-a659-35ab2e1fb580"
+	}
+}
